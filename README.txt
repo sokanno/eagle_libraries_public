@@ -5,6 +5,11 @@ irremote.lbr	秋月電子でうっているリモコン受信モジュールで�
 		http://akizukidenshi.com/catalog/g/gI-03292/
 
 //とりあえずアップされてるけど整理されていないもの
+takawo.lbr	takawo杯duino用のロゴマーク
+
+sw_pot.lbr	スイッチ付きのボリューム抵抗　無理矢理ですが面実装でつけます。
+		http://www.marutsu.co.jp/shohin_64144/
+
 (他全部)
 
 
