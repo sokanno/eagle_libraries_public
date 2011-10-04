@@ -10,15 +10,15 @@ takawo.lbr	takawo杯duino用のロゴマーク
 sw_pot.lbr	スイッチ付きのボリューム抵抗　無理矢理ですが面実装でつけます。
 		http://www.marutsu.co.jp/shohin_64144/
 
-(他全部)
+(他多数はすこしづつ整理します)
 
 
 
 下記の条件で作成するつもりでいます。
 上にリストアップされているものは直したやつのリストです。
 
-シンボル		NAME 	70mil
+Symbol		NAME 	70mil
 		width	1mil
 
-パッケージ	NAME	50mil
+Package		NAME	50mil
 		width	0.5mil
